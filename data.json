@@ -4,7 +4,7 @@
 
     "AdsController": [
       {
-      "NetworkAds": "admobe",
+      "NetworkAds": "facebook",
         "AdMobId": "pub-3940256099942544",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -54,8 +54,8 @@
         "title": "Movies and series Channels",
         "image": "https://www.linkpicture.com/q/content3_3.jpg"
       }
-      
-      
+
+
 
     ],
 
@@ -233,7 +233,111 @@
         "text": "That is also an issue if you’re a heavy video game user. If you hook up your video game console to your plasma TV and play all day for days upon days, the hours of playing will burn in the image of, say, the life meter on your plasma screen. That will be a little embarrassing especially if you’re having friends over and they’ll see a shadowy image of your otherworldly pursuits right in front of their eyes.",
         "isNative": "true"
       }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Sports spanish Channels",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content1_3.jpg",
+        "text": "life span : These days, however, plasma televisions have improved and been given longer life spans. Depending on the brand, plasma TVs have a half-life of 60,000 hours. If you’re a normal person with a normal family having normal TV viewing hours, that should not be considered a disadvantage. Imagine this: if you spend at least 5 hours in front of your plasma TV, that will translate to about 33 years of use.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "burn in issues : This is another disadvantage of plasma televisions. Plasma TVs are called that way thanks to the thousands of minute fluorescent lights in the screen. These lights are filled with gas which burn each time the TV is used. This is a good thing, because compared to the LCD and the older CRT TVs, a plasma TV need only light up when they’re needed. LCD panels are like one big light bulb that is always turned on.",
+        "isNative": "true"
+      }
+    ],
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Sports spanish Channels",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content1_3.jpg",
+        "text": "life span : These days, however, plasma televisions have improved and been given longer life spans. Depending on the brand, plasma TVs have a half-life of 60,000 hours. If you’re a normal person with a normal family having normal TV viewing hours, that should not be considered a disadvantage. Imagine this: if you spend at least 5 hours in front of your plasma TV, that will translate to about 33 years of use.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "burn in issues : This is another disadvantage of plasma televisions. Plasma TVs are called that way thanks to the thousands of minute fluorescent lights in the screen. These lights are filled with gas which burn each time the TV is used. This is a good thing, because compared to the LCD and the older CRT TVs, a plasma TV need only light up when they’re needed. LCD panels are like one big light bulb that is always turned on.",
+        "isNative": "true"
+      }
+    ],
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Sports spanish Channels",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content1_3.jpg",
+        "text": "life span : These days, however, plasma televisions have improved and been given longer life spans. Depending on the brand, plasma TVs have a half-life of 60,000 hours. If you’re a normal person with a normal family having normal TV viewing hours, that should not be considered a disadvantage. Imagine this: if you spend at least 5 hours in front of your plasma TV, that will translate to about 33 years of use.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#ffffff","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://www.linkpicture.com/q/content3_3.jpg",
+        "text": "burn in issues : This is another disadvantage of plasma televisions. Plasma TVs are called that way thanks to the thousands of minute fluorescent lights in the screen. These lights are filled with gas which burn each time the TV is used. This is a good thing, because compared to the LCD and the older CRT TVs, a plasma TV need only light up when they’re needed. LCD panels are like one big light bulb that is always turned on.",
+        "isNative": "true"
+      }
     ]
-
   }
 }
